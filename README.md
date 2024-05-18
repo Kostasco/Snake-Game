@@ -1,4 +1,3 @@
-# Snake-Game
 # Snake Game
 
 This is a classic Snake game implemented in Python using the Turtle graphics library. The game features smooth gameplay, dynamic scoring, and simple controls. It's an excellent example of a beginner Python project involving basic game development concepts.
@@ -8,11 +7,8 @@ This is a classic Snake game implemented in Python using the Turtle graphics lib
 - [Overview](#overview)
 - [Features](#features)
 - [Prerequisites](#prerequisites)
-- [Installation](#installation)
-- [Usage](#usage)
 - [Game Controls](#game-controls)
 - [Gameplay](#gameplay)
-- [Contributing](#contributing)
 - [License](#license)
 
 ## Overview
@@ -23,18 +19,29 @@ The Snake Game is a timeless classic where the player controls a snake to eat fo
 
 - **Classic Gameplay**: Traditional snake mechanics with smooth controls.
 - **Dynamic Scoring**: Real-time score and high score tracking.
-- **Pause and Resume**: Ability to pause and resume the game.
+- **Pause/ Resume and Exit**: Ability to pause, resume and exit the game.
 - **Simple Interface**: Clean and minimalistic design.
 
 ## Prerequisites
 
 - Python 3.x installed on your system.
 - Turtle graphics library (comes standard with Python).
+  
+## Game Controls
 
-## Installation
+- **W**: Move Up
+- **S**: Move Down
+- **A**: Move Left
+- **D**: Move Right
+- **Space**: Pause/Resume Game
+- **Escape**: Exit Game
 
-1. **Clone the repository**:
+## Gameplay
 
-   ```sh
-   git clone https://github.com/yourusername/snake-game.git
-   cd snake-game
+1. **Objective**: Control the snake to eat food and grow longer. Avoid collisions with the screen borders and the snake's own body.
+2. **Scoring**: Each piece of food increases the score by 10 points. The game keeps track of the highest score achieved during the session.
+3. **Game Over**: The game ends when the snake collides with the border or itself. The snake resets, and the current score resets to zero.
+
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
