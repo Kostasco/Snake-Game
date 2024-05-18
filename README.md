@@ -1,8 +1,5 @@
-![Example Image](/snake_game_background.jpg)
-<img src="snake_game_background.jpg" alt="Example Image"  width=1000 height="250">
-
 # Snake Game
-
+<img src="snake_game_background.jpg" alt="Example Image"  width=1000 height="250">
 This is a classic arcade-style Snake game implemented in Python using the Turtle graphics library. The game features smooth gameplay, dynamic scoring, and simple controls. It's an excellent example of a beginner Python project involving basic game development concepts.
 
 ## Table of Contents
