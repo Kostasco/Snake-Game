@@ -216,6 +216,5 @@ while running:
                 update_score()
 
         time.sleep(delay)
-
     else:
         running = False
