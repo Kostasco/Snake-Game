@@ -42,6 +42,6 @@ The Snake Game is a timeless classic where the player controls a snake to eat fo
 2. **Scoring**: Each piece of food increases the score by 10 points. The game keeps track of the highest score achieved during the session.
 3. **Game Over**: The game ends when the snake collides with the border or itself. The snake resets, and the current score resets to zero.
 
+## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
