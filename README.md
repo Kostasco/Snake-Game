@@ -1,5 +1,5 @@
 ![Example Image](/snake_game_background.jpg)
-<img src="snake_game_background.jpg" alt="Example Image"  height="200">
+<img src="snake_game_background.jpg" alt="Example Image"  width=800 height="200">
 
 # Snake Game
 
