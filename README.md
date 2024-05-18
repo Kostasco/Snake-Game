@@ -1,3 +1,5 @@
+![Example Image](Snake-Game/snake_game_background.jpg)
+
 # Snake Game
 
 This is a classic arcade-style Snake game implemented in Python using the Turtle graphics library. The game features smooth gameplay, dynamic scoring, and simple controls. It's an excellent example of a beginner Python project involving basic game development concepts.
