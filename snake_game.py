@@ -104,10 +104,14 @@ def move():
 
 # Keyboard bindings
 screen.listen()
-screen.onkeypress(go_up, "w")
-screen.onkeypress(go_down, "s")
-screen.onkeypress(go_left, "a")
-screen.onkeypress(go_right, "d")
+screen.onkeypress(go_up, "w")       # "W" key
+screen.onkeypress(go_up, "Up")      # Up arrow key
+screen.onkeypress(go_down, "s")     # "S" key
+screen.onkeypress(go_down, "Down")  # Down arrow key
+screen.onkeypress(go_left, "a")     # "A" key
+screen.onkeypress(go_left, "Left")  # Left arrow key
+screen.onkeypress(go_right, "d")    # "D" key
+screen.onkeypress(go_right, "Right") # Right arrow key
 
 # Update the score
 def update_score():
