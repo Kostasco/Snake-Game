@@ -29,10 +29,10 @@ The Snake Game is a timeless classic where the player controls a snake to eat fo
   
 ## Game Controls
 
-- **W**: Move Up
-- **S**: Move Down
-- **A**: Move Left
-- **D**: Move Right
+- **W** or "Up": Move Up
+- **S** or "Down": Move Down
+- **A** or "Left": Move Left
+- **D** or "Right": Move Right
 - **Space**: Pause/Resume Game
 - **Escape**: Exit Game
 
