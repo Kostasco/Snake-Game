@@ -1,4 +1,4 @@
-![Example Image](Snake-Game/snake_game_background.jpg)
+![Example Image](/snake_game_background.jpg)
 
 # Snake Game
 
